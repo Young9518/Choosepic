@@ -1,0 +1,4 @@
+<!--index.wxml-->
+
+<image src='{{img}}' mode='aspectFill' bindtap='change'></image>
+<button>a</button>
